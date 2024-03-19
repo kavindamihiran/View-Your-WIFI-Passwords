@@ -1,2 +1,2 @@
 # View-Your-WIFI-Passwords
-Download .bat File Run it.
+Download .bat File and Run it.
